@@ -1,5 +1,5 @@
 #!/bin/sh
 
 yarn install
-brave-browser localhost:8080
+brave-browser --new-window localhost:8080
 yarn start
