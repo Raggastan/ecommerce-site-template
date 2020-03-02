@@ -46,27 +46,27 @@ class OtherInfo extends Component {
         <div className="lIWrapper" key="lIWrapperText">
           <div className="inputWrapper">
             <label>Local Address:</label>
-            <p className="inputData">House no 33</p>
+            <p className="inputData">Apt 20-05</p>
           </div>
           <div className="inputWrapper">
             <label>City:</label>
-            <p className="inputData">New Delhi</p>
+            <p className="inputData">Kuala Lumpur</p>
           </div>
           <div className="inputWrapper">
             <label>State:</label>
-            <p className="inputData">Delhi</p>
+            <p className="inputData">Kuala Lumpur</p>
           </div>
           <div className="inputWrapper">
             <label>Landmark:</label>
-            <p className="inputData">Yasin Manzil</p>
+            <p className="inputData">Stanislas POSTEL</p>
           </div>
           <div className="inputWrapper">
             <label>Country:</label>
-            <p className="inputData">India</p>
+            <p className="inputData">Malaysia</p>
           </div>
           <div className="inputWrapper">
             <label>Pin Code:</label>
-            <p className="inputData">100065</p>
+            <p className="inputData">20052020</p>
           </div>
         </div>
       );
