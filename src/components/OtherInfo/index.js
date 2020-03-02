@@ -92,11 +92,11 @@ class OtherInfo extends Component {
         <div className="cIWrapper" key="cIWrapperText">
           <div className="inputWrapper">
             <label>Email:</label>
-            <p className="inputData">arshdkhn1@gmail.com</p>
+            <p className="inputData">lincarvillais@gmail.com</p>
           </div>
           <div className="inputWrapper">
             <label>Phone no:</label>
-            <p className="inputData">+91-9999999999</p>
+            <p className="inputData">+6942069420</p>
           </div>
         </div>
       );
