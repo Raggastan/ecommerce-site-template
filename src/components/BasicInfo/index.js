@@ -7,7 +7,7 @@ class BasicInfo extends Component {
     super(props);
     this.state = {
       name: "Stanislas POSTEL",
-      imgSrc: ""
+      imgSrc: "../../src/assets/images/pp.jpg"
     };
   }
   render() {
